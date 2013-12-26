@@ -8,7 +8,7 @@ Stable tag: trunk
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Select a default admin color scheme
+Select a default admin color scheme for new and existing users.
 
 == Description ==
 
@@ -47,4 +47,3 @@ Fork me on [Github](https://github.com/barryceelen/wp-default-admin-color-scheme
 
 = 1.0 =
 * Initial release
-
